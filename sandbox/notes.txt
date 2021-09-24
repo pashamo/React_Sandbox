@@ -1,0 +1,35 @@
+ JSX : neat feature, good for readable elements in js.
+
+ Rendering Elements
+
+ Components and Props
+
+ State and LifeCylce
+
+ Handling Events
+
+ Conditional Rendering 
+
+ Lists and Keys
+
+ Forms : one/two way binding, controlled/uncontrolled components
+
+ Lifting State Up : sharing data, lift up to closest ancestor
+
+ Composition vs Inheritance : Passing arbitrary props to components
+
+ Thinking in React :
+
+Start with a mockup → Break UI to components → Build static version in React → Identify minimal set of UI state → Add Inverse data flow
+
+ Hooks ← : making a functional component into a class component, reusing stateful logic - not state itself  
+
+ Testing Recipes : common patterns for writing React tests
+
+ Testing Environments ← : considerations for test setup
+
+ Material UI : Incorporated a few components in my learning, understand usage
+
+
+
+create-react-app <your project name> --scripts-version 1.1.5
